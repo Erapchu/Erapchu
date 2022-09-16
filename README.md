@@ -6,7 +6,12 @@
 - 📫 How to reach me: Telegram, VK (by pseudonym)
 - 👨‍💻 I love working with WinAPI, Component Object Model (COM), C#, WPF, UWP, MAUI, indexing
 
-[![](https://github-readme-stats.vercel.app/api?username=Erapchu&show_icons=true&hide_title=true&theme=radical)](https://github.com/Erapchu)
+<p>
+<a href="https://github.com/michaldivis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erapchu&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Erapchu&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 <!--
 **Erapchu/Erapchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
